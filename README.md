@@ -6,5 +6,6 @@ This AI-Powered Presentation Generator streamlines the automation of PowerPoint 
 
 **Comprehensive Content Handling** : 
 The next version will accept both topics and your existing content (text, outlines, etc.) for presentation generation.
+
 **Intelligent Summarization and Formatting** : 
 The AI will intelligently summarize and format your provided content, creating a visually appealing and informative presentation.
